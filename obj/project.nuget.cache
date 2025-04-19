@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "YsTSnbgnNvM=",
+  "success": true,
+  "projectFilePath": "C:\\FRI\\LeetCode\\geni-project\\geni-project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rudia\\.nuget\\packages\\bouncycastle.cryptography\\2.5.1\\bouncycastle.cryptography.2.5.1.nupkg.sha512",
+    "C:\\Users\\rudia\\.nuget\\packages\\mailkit\\4.11.0\\mailkit.4.11.0.nupkg.sha512",
+    "C:\\Users\\rudia\\.nuget\\packages\\microsoft.data.sqlite\\9.0.4\\microsoft.data.sqlite.9.0.4.nupkg.sha512",
+    "C:\\Users\\rudia\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.4\\microsoft.data.sqlite.core.9.0.4.nupkg.sha512",
+    "C:\\Users\\rudia\\.nuget\\packages\\mimekit\\4.11.0\\mimekit.4.11.0.nupkg.sha512",
+    "C:\\Users\\rudia\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.10\\sqlitepclraw.bundle_e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\rudia\\.nuget\\packages\\sqlitepclraw.core\\2.1.10\\sqlitepclraw.core.2.1.10.nupkg.sha512",
+    "C:\\Users\\rudia\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.10\\sqlitepclraw.lib.e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\rudia\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.10\\sqlitepclraw.provider.e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\rudia\\.nuget\\packages\\system.formats.asn1\\8.0.1\\system.formats.asn1.8.0.1.nupkg.sha512",
+    "C:\\Users\\rudia\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\rudia\\.nuget\\packages\\system.security.cryptography.pkcs\\8.0.1\\system.security.cryptography.pkcs.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

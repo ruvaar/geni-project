@@ -1,0 +1,18 @@
+{
+  "Smtp": {
+    "Host": "smtp.gmail.com",
+    "Port": 587,
+    "EnableSsl": true,
+    "User": "<example>@gmail.com",
+    "Password": "<SMTP_PASSWORD>"
+  },
+  "Mail": {
+    "From": "<example>@gmail.com",
+    "Subject": "Rocket Launch Updates for {{DATE}}"
+  },
+  "Recipients": [
+    "recipient1@example.com",
+    "recipient2@example.com",
+    "recipient3@example.com"
+  ]
+}
